@@ -1,2 +1,4 @@
 # cursePlusPlus
-This is my absurd programming language - good luck with this one
+Welcome to CursePlusPlus — the arcane scripting language for conjuring C++ incantations
+
+- good luck with this one
